@@ -1,4 +1,4 @@
-# Crando alerta de orçamento no Google Cloud Platform
+# Criando alerta de orçamento no Google Cloud Platform
 
 ## - Consulta ao limite de crédito.
 ## - Criação do alerta:
